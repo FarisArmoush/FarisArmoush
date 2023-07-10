@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fariskarmoush@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ur4W3sDz9Uv0YtFMAjoHxqI6E7I22ExzXa_5zcaIYto/edit?usp=sharing](https://docs.google.com/document/d/1ur4W3sDz9Uv0YtFMAjoHxqI6E7I22ExzXa_5zcaIYto/edit?usp=sharing)
+- 📄 Know about my experiences (Resume)[https://docs.google.com/document/d/1ur4W3sDz9Uv0YtFMAjoHxqI6E7I22ExzXa_5zcaIYto/edit?usp=sharing](https://docs.google.com/document/d/1ur4W3sDz9Uv0YtFMAjoHxqI6E7I22ExzXa_5zcaIYto/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
