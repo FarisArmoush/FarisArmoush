@@ -1,13 +1,34 @@
-## 👋 Hi, I'm Faris Armoush.
+# Faris Armoush
+
+Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer based in Jordan. I'm 21 years old and currently on a journey to master the art of mobile development.
+
+## About Me
+
+- **Name:** Faris Armoush
+- **Age:** 21
+- **Location:** Jordan
+- **Weird Fear:** I'm so afraid of cats 
+
+## 💻 Technologies & Skills
+
+- **Mobile Development:** Flutter (Primary), Swift (Learning), SwiftUI (Learning), UIKit (Learning)
+- **Backend:** Firebase
+- **Focus:** Clean Code, Software Architecture
+
+## 🚀 Projects
+
+- **Biggest Project (Coming Soon):** Stay tuned! I'm about to unveil my most significant project. Watch this space for updates.
 
 
-# Tech Stack:
+## 🌱 Learning & Growth
 
-* Flutter
-* Firebase
+I am always reading and researching to master mobile development. Learning is a lifelong journey, and I am excited about the possibilities that continuous learning brings. Currently, I am expanding my skill set by delving into Swift, SwiftUI, and UIKit.
 
-# About me:
-* Staying up to date about the latest updates in the mobile development industry.
-* Always learning how to improve mobile apps to give users the best UX.
-* Architecture is my most important part of a software.
-* Cats scare me.
+## 🤝 Open to Collaborations
+
+I am open to both freelance projects and employment opportunities. If you're interested in working together or have an exciting project in mind, feel free to reach out.
+
+## 🌐 Contact & Portfolio
+
+- **LinkedIn:** [Faris Armoush](https://www.linkedin.com/in/farisarmoush/)
+- **Email:** fariskarmoush@gmail.com
