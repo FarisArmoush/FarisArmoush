@@ -28,7 +28,7 @@ I am always reading and researching to master mobile development. Learning is a 
 
 I am open to both freelance projects and employment opportunities. If you're interested in working together or have an exciting project in mind, feel free to reach out.
 
-## 🌐 Contact & Portfolio
+## 📞 Contact
 
 - **LinkedIn:** [Faris Armoush](https://www.linkedin.com/in/farisarmoush/)
 - **Email:** fariskarmoush@gmail.com
