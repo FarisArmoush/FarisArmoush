@@ -11,7 +11,7 @@ Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer based in Jor
 
 ## 💻 Technologies & Skills
 
-- **Mobile Development:** Flutter (Primary), Swift (Learning), SwiftUI (Learning), UIKit (Learning)
+- **Mobile Development:** Flutter (Primary), (Swift, SwiftUI, UIKit (Learning))
 - **Backend:** Firebase
 - **Focus:** Clean Code, Software Architecture
 
