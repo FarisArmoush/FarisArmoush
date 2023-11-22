@@ -1,6 +1,6 @@
 # Faris Armoush
 
-Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer based in Jordan. I'm 21 years old and currently on a journey to master the art of mobile development.
+Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer on a journey to master the art of mobile development.
 
 ## About Me
 
