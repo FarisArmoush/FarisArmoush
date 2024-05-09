@@ -17,7 +17,7 @@ Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer on a journey
 
 ## 🚀 Projects
 
-- **Biggest Project (Coming Soon): I just made groceries open source, feel free to check it out, I hope that you get any possible amount of knowledge, and let me know if there is anything that can be improved in it. 
+- **Biggest Project : I just made Groceries open source, feel free to check it out, I hope that you get any possible amount of knowledge, and let me know if there is anything that can be improved in it. 
 
 
 ## 🌱 Learning & Growth
