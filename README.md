@@ -7,7 +7,9 @@ Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer on a journey
 - **Name:** Faris Armoush
 - **Age:** 22
 - **Location:** Amman/Jordan
-- **Weird Fear:** I'm so afraid of cats 
+- **Weird Fear:** I'm so afraid of cats
+
+[![FarisArmoush's Github Stats](https://github-readme-stats.vercel.app/api?username=FarisArmoush&count_private=true&theme=dark&show_icons=true)](https://github.com/FarisArmoush)
 
 ## 💻 Technologies & Skills
 
@@ -17,7 +19,9 @@ Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer on a journey
 
 ## 🚀 Projects
 
-- **Biggest Project : I just made Groceries open source, feel free to check it out, I hope that you get any possible amount of knowledge, and let me know if there is anything that can be improved in it. 
+- **Biggest Project : I just made Groceries open source, feel free to check it out, I hope that you get any possible amount of knowledge, and let me know if there is anything that can be improved in it.
+
+[![Groceries](https://github-readme-stats.vercel.app/api/pin/?username=FarisArmoush&theme=dark&repo=groceries)](https://github.com/FarisArmoush/groceries)
 
 
 ## 🌱 Learning & Growth
