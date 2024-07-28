@@ -9,7 +9,7 @@ Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer on a journey
 - **Location:** Amman/Jordan
 - **Weird Fear:** I'm so afraid of cats
 
-[![FarisArmoush's Github Stats](https://github-readme-stats.vercel.app/api?username=FarisArmoush&count_private=true&theme=dark&show_icons=true)](https://github.com/FarisArmoush)
+[![FarisArmoush's Github Stats](https://github-readme-stats.vercel.app/api?username=FarisArmoush&count_private=true&show_icons=true)](https://github.com/FarisArmoush)
 
 ## 💻 Technologies & Skills
 
@@ -18,10 +18,10 @@ Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer on a journey
 - **Focus:** Clean Code, Software Architecture, System Design, S.O.L.I.D Principles.
 
 ## 🚀 Projects
+[![Groceries](https://github-readme-stats.vercel.app/api/pin/?username=FarisArmoush&repo=groceries)](https://github.com/FarisArmoush/groceries)
 
-- **Biggest Project : I just made Groceries open source, feel free to check it out, I hope that you get any possible amount of knowledge, and let me know if there is anything that can be improved in it.
+[![netowkring_service](https://github-readme-stats.vercel.app/api/pin/?username=FarisArmoush&repo=networking_service)](https://github.com/FarisArmoush/networking_service)
 
-[![Groceries](https://github-readme-stats.vercel.app/api/pin/?username=FarisArmoush&theme=dark&repo=groceries)](https://github.com/FarisArmoush/groceries)
 
 
 ## 🌱 Learning & Growth
