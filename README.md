@@ -1,6 +1,6 @@
 # Faris Armoush
 
-Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer on a journey to master the art of mobile development.
+Hello there! 👋 I'm Faris Armoush, a passionate Mobile Developer on a journey to master the art of mobile development.
 
 ## About Me
 
@@ -13,7 +13,7 @@ Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer on a journey
 
 ## 💻 Technologies & Skills
 
-- **Mobile Development:** Flutter (Primary), Swift, SwiftUI (Learning)
+- **Mobile Development:** Flutter (Primary), SwiftUI (Learning)
 - **Backend:** Firebase
 - **Focus:** Clean Code, Software Architecture, System Design, S.O.L.I.D Principles.
 
@@ -26,7 +26,7 @@ Hello there! 👋 I'm Faris Armoush, a passionate Flutter Developer on a journey
 
 ## 🌱 Learning & Growth
 
-I am always reading and researching to master mobile development. Learning is a lifelong journey, and I am excited about the possibilities that continuous learning brings. Currently, I am expanding my skill set by delving into Swift and SwiftUI
+I am always reading and researching to master mobile development. Learning is a lifelong journey, and I am excited about the possibilities that continuous learning brings. Currently, I am expanding my skill set by delving into SwiftUI.
 
 ## 🤝 Open to Collaborations
 
