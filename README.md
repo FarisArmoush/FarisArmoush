@@ -1,6 +1,6 @@
 # Faris Armoush
 
-Hello there! 👋 I'm Faris Armoush, a passionate Mobile Developer on a journey to master the art of mobile development.
+Hello there! 👋 I'm Faris Armoush, a Mobile-Engineer 📱 on a journey to master the art of mobile development.
 
 ## About Me
 
@@ -12,9 +12,8 @@ Hello there! 👋 I'm Faris Armoush, a passionate Mobile Developer on a journey 
 
 ## 💻 Technologies & Skills
 
-- **Mobile Development:** Flutter (Primary), SwiftUI (Learning)
-- **Backend:** Firebase
-- **Focus:** Clean Code, Software Architecture, System Design, S.O.L.I.D Principles.
+- **Mobile Development:** Flutter, SwiftUI
+- **Focus:** Architecture, System Design, SOLID Principles (TDD is in progress).
 
 ## 🚀 Projects
 [![Groceries](https://github-readme-stats.vercel.app/api/pin/?username=FarisArmoush&repo=groceries)](https://github.com/FarisArmoush/groceries)
@@ -25,7 +24,7 @@ Hello there! 👋 I'm Faris Armoush, a passionate Mobile Developer on a journey 
 
 ## 🌱 Learning & Growth
 
-I am always reading and researching to master mobile development. Learning is a lifelong journey, and I am excited about the possibilities that continuous learning brings. Currently, I am expanding my skill set by delving into SwiftUI.
+I am always reading and researching to master mobile development. Learning is a lifelong journey, and I am excited about the possibilities that continuous learning brings. Currently, I am expanding my skill set by diving into SwiftUI.
 
 ## 🤝 Open to Collaborations
 
