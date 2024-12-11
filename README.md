@@ -7,7 +7,6 @@ Hello there! 👋 I'm Faris Armoush, a passionate Mobile Developer on a journey 
 - **Name:** Faris Armoush
 - **Age:** 22
 - **Location:** Amman/Jordan
-- **Weird Fear:** I'm so afraid of cats
 
 [![FarisArmoush's Github Stats](https://github-readme-stats.vercel.app/api?username=FarisArmoush&count_private=true&show_icons=true)](https://github.com/FarisArmoush)
 
