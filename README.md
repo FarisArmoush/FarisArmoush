@@ -8,7 +8,7 @@ Hello there! 👋 I'm Faris Armoush, a Mobile-Engineer 📱 on a journey to mast
 - **Age:** 22
 - **Location:** Amman/Jordan
 
-[![FarisArmoush's Github Stats](https://github-readme-stats.vercel.app/api?username=FarisArmoush&count_private=true&show_icons=true)](https://github.com/FarisArmoush)
+[![FarisArmoush's Github Stats](https://github-readme-stats.vercel.app/api?username=FarisArmoush&count_private=true&show_icons=true&theme=github_dark)](https://github.com/FarisArmoush)
 
 ## 💻 Technologies & Skills
 
@@ -16,9 +16,9 @@ Hello there! 👋 I'm Faris Armoush, a Mobile-Engineer 📱 on a journey to mast
 - **Focus:** Architecture, System Design, SOLID Principles (TDD is in progress).
 
 ## 🚀 Projects
-[![Groceries](https://github-readme-stats.vercel.app/api/pin/?username=FarisArmoush&repo=groceries)](https://github.com/FarisArmoush/groceries)
+[![Groceries](https://github-readme-stats.vercel.app/api/pin/?username=FarisArmoush&repo=groceries&theme=github_dark)](https://github.com/FarisArmoush/groceries)
 
-[![netowkring_service](https://github-readme-stats.vercel.app/api/pin/?username=FarisArmoush&repo=networking_service)](https://github.com/FarisArmoush/networking_service)
+[![netowkring_service](https://github-readme-stats.vercel.app/api/pin/?username=FarisArmoush&repo=networking_service&theme=github_dark)](https://github.com/FarisArmoush/networking_service)
 
 
 
