@@ -26,10 +26,6 @@ Hello there! 👋 I'm Faris Armoush, a Mobile-Engineer 📱 on a journey to mast
 
 I am always reading and researching to master mobile development. Learning is a lifelong journey, and I am excited about the possibilities that continuous learning brings. Currently, I am expanding my skill set by diving into SwiftUI.
 
-## 🤝 Open to Collaborations
-
-I am open to both freelance projects and employment opportunities. If you're interested in working together or have an exciting project in mind, feel free to reach out.
-
 ## 📞 Contact
 
 - **LinkedIn:** [Faris Armoush](https://www.linkedin.com/in/farisarmoush/)
